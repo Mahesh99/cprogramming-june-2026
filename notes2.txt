@@ -1,0 +1,33 @@
+Programming?
+giving instructions to computer to perform a specific task
+
+C Programming
+It is a structural high level compiled programming language
+
+Paradigm
+structural(functional) - OOP
+
+High level
+Machine language - 0' and 1's - binary - 10010 10100 101010 - 3 + 4
+Assembly lang. - neumonics & symbols - add 3,4
+High level - C programming - human readable - 3+4
+
+
+Compiled vs Interpreted
+whole code is checked first for errors and if there are no errors then an executable code is created.
+
+line by line code is checked and executed at the same time
+
+
+VS code
+gcc - Gnome C compiler
+
+
+Comments
+comments are ignored by c compiler
+code readability
+
+there are 2 types of comments
+1. single line - //
+2. multiline - /**/
+
