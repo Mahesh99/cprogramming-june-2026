@@ -1,0 +1,22 @@
+Programming?
+giving instructions to computer to perform a specific task
+
+C programming
+it is a structured, high level programming language
+
+structured - paradigms 1.functional(structural) 2.OOP
+high level - 
+
+machine language - 0's and 1's - binary - 10010 10101 11010 - 3+4
+assembly - nuemonics & symbols - add 3,4
+high level - c - human readable - 3+4
+
+compiled programming lang.
+- whole code is checked for error and if there are no errors then an executable file will be created
+
+
+C compiler - msys2.org
+Vs code - 
+
+gcc
+
