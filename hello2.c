@@ -9,7 +9,10 @@ void main() {
     printf("%d ",4/2);
     printf("%d ",4%2);
     printf("%d ",5%2);
-    //printf("%d ",6%4);
+    printf("%d ",6%4);
+    printf("%f ",1.8*36+32); //f=1.8*c+32
+    printf("%f ",1.8*40+32); //f=1.8*c+32
+    printf("%d ",5*(5+1)/2);
 
     //Arithmetic operators
     //+,-,*,/,%(modulus)
