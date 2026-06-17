@@ -31,3 +31,21 @@ there are 2 types of comments
 1. single line - //
 2. multiline - /**/
 
+
+
+
+temp=36
+weight=65
+a=1
+A=10
+char=10
+
+char l='k'
+printf("%c",l);
+
+unsigned a=10.0;
+short  a;
+long  a;
+int a=1/(double)5;
+
+
