@@ -47,5 +47,3 @@ unsigned a=10.0;
 short  a;
 long  a;
 int a=1/(double)5;
-
-
