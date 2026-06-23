@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main() {
 
-    printf("Hello world\n");
+    printf("Hello\tworld\n\a");
     printf("Welcome to C programming classes\n");
     printf("%d ",3+4);
     printf("%d ",3-4);

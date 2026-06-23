@@ -35,3 +35,56 @@ All non zero numbers are True
 unary - !,++,--,~,sizeof
 binary - &&, ||
 ternary - ?:
+
+
+#include <stdio.h>
+
+// Uncomment the next line to turn on debugging features
+#define DEBUG_MODE 
+
+int main() {
+    int total_score = 450;
+
+    #ifdef DEBUG_MODE
+        // This block will compile ONLY because DEBUG_MODE is defined
+        printf("[DEBUG] Current score variable holds: %d\n", total_score);
+    #endif
+
+    printf("Application finished executing successfully.\n");
+    return 0;
+}
+
+
+#include <stdio.h>
+
+// If no previous file or compiler setting defined the buffer size, set a default
+#ifndef BUFFER_SIZE
+    #define BUFFER_SIZE 1024
+#endif
+
+int main() {
+    printf("The buffer capacity is configured to: %d bytes\n", BUFFER_SIZE);
+    return 0;
+}
+
+
+
+#include <stdio.h>
+
+#define WINDOWS_OS
+
+int main() {
+    #ifdef WINDOWS_OS
+        printf("Running on a Windows operating system environment.\n");
+    #else
+        printf("Running on a Linux or alternative operating system environment.\n");
+    #endif
+    return 0;
+}
+
+
+
+
+printf("The square of %d is %d\n", number, a*a);
+a+b\
++c+d\

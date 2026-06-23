@@ -47,3 +47,13 @@ unsigned a=10.0;
 short  a;
 long  a;
 int a=1/(double)5;
+
+temp=36;
+weight=65;
+a=10;
+auto=10;
+A=20;
+
+char c='a';
+
+mahesh97rya
