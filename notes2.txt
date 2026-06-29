@@ -4,6 +4,7 @@ giving instructions to computer to perform a specific task
 C Programming
 It is a structural high level compiled programming language
 
+
 Paradigm
 structural(functional) - OOP
 
