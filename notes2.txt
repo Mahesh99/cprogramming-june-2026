@@ -24,6 +24,11 @@ VS code
 gcc - Gnome C compiler
 
 
+gcc hello3.c
+./a.exe
+
+
+
 Comments
 comments are ignored by c compiler
 code readability
