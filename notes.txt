@@ -31,6 +31,8 @@ All non zero numbers are True
 2>3 && 2<4 - F - 0
 2>3 || 2<4 - T - 1
 
+0 && 1 - 0
+
 2+3
 unary - !,++,--,~,sizeof
 binary - &&, ||

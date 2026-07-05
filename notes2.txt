@@ -40,6 +40,9 @@ there are 2 types of comments
 
 
 
+
+
+
 temp=36
 weight=65
 a=1
@@ -57,6 +60,7 @@ int a=1/(double)5;
 temp=36;
 weight=65;
 a=10;
+a=-10;
 auto=10;
 A=20;
 
