@@ -8,6 +8,10 @@ It is a structural high level compiled programming language
 Paradigm
 structural(functional) - OOP
 
+4gb
+1000*1000*1000B
+1B-8bits
+
 High level
 Machine language - 0' and 1's - binary - 10010 10100 101010 - 3 + 4
 Assembly lang. - neumonics & symbols - add 3,4
@@ -21,7 +25,7 @@ line by line code is checked and executed at the same time
 
 
 VS code
-gcc - Gnome C compiler
+gcc - GNU C compiler
 
 
 gcc hello3.c

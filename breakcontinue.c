@@ -7,14 +7,14 @@ void main() {
         if(n%i==0) {
             prime=0;
             break;
-        }
+        } 
     }
     if(prime==0) {
         printf("Not prime");
     } else {
         printf("Prime");
     }
-}
+} 
 /*
 a number is divided by 1 and itself only then it is called prime number
 
