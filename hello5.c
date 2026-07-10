@@ -8,4 +8,5 @@ void main() {
     printf("%d ",4/2);
     printf("%d ",4%2);
     printf("%d ",5%2);
+    printf("%f ",4*95.31);
 }
