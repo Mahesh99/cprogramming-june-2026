@@ -3,7 +3,7 @@
 #include <time.h>
 int main() {
     srand(time(0));
-    int a = sqrt(4);
+    int a = rand()%10;
     // printf("%d", a);
     printf("Choose a number between 1 and 100: ");
     getchar();
