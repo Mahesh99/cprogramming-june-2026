@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main() {
-    char class;
+    char class;//'a' or 'b' or '1' or '$'
     printf("Enter class:");
     scanf("%c",&class);
 
