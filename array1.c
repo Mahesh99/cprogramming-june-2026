@@ -25,3 +25,5 @@ void main()
         printf("%d ",a[i]);
 
 }
+//1. create a character array of size 5 and initialize with any alphabets and print 3rd character
+//2. create a float array of size 5 and read 5 decimal numbers using scanf and print all the elements using for loop
