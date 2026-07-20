@@ -17,7 +17,7 @@ void main()
     //0,1,2...n-1, where n is the size of the array
 
     //modifying
-    a[4]=10;
+   j a[4]=10;
     printf("%d ",a[4]);
 
     printf("\n");
@@ -27,3 +27,39 @@ void main()
 }
 //1. create a character array of size 5 and initialize with any alphabets and print 3rd character
 //2. create a float array of size 5 and read 5 decimal numbers using scanf and print all the elements using for loop
+/*
+{
+{
+{1,2}
+{1,2}
+{1,2}
+{1,2}
+},
+{
+{1,2}
+{1,2}
+{1,2}
+{1,2}
+},
+{
+{1,2}
+{1,2}
+{1,2}
+{1,2}
+};
+}
+a[0][2][1]
+
+1 2
+3 4
+5 6
+
+1 1
+2 2 
+3 3
+
+2 
+ 
+ 
+
+*/
