@@ -3,15 +3,18 @@
 void main() {
     char s[20];
     char *p;
+    char s1[14];
+    char s2[9]="Good dayp";
     // p=s;
-    p="hello";
+    // p="hello";
     // scanf(" %s",s);
-    gets(s);
-    s[0]='a';
-    printf("%s\n",s);
-    printf("%-20.3s",s);
-    printf("hi\n");
-    puts(p);
+    // gets(s);
+    // s[0]='a';
+    // printf("%s\n",s);
+    // printf("%-20.3s",s);
+    // printf("hi\n");
+    // puts(p);
     printf("\n%d",strlen(s));
+    printf("%u",'\0');
 }
-          
+//010101010
