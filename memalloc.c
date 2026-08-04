@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<stdlib.h>
+void main() {
+    int *p;
+    p=(int*)malloc(sizeof(int));
+    *p=10;
+    printf("%d",*p);
+    free(p);
+    
+
+}
+//17

@@ -4,6 +4,7 @@ void main()
   int m,n,i,j,a[10][10],b[10][10],c[10][10];
  printf("\n enter the size of the matrix\n");
  scanf("%d %d", &m,&n);
+ int *p;
  printf("enter the elements of matrix a\n");
  for(i=0;i<m;i++)
  {

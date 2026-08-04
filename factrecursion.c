@@ -1,5 +1,6 @@
 #include<stdio.h>
-int fact(int);
+int fact(int n);
+int count=1;
 void main() {
     int n;
     printf("Enter value of n:"); //5
@@ -20,6 +21,8 @@ int fact(n) {
         return n*fact(n-1);
 }
 /*
+5!=5*4*3*2*1=120
+
 fact(5)
 return 5*fact(4)
 
@@ -30,7 +33,7 @@ fact(3)
 return 3*fact(2)
 
 fact(2)
-return 2*fact(1)
+return 2*1
 
 fact(1)
 return 1
@@ -77,6 +80,7 @@ MyFile.h
 #include<stdio.h>
 #define sum(x, y)  (x+y)
 
-
+int a;
+badri a;
 */
 
